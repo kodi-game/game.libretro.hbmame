@@ -1,0 +1,93 @@
+# game.libretro.hbmame language file
+# Addon Name: game.libretro.hbmame
+# Addon id: game.libretro.hbmame
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.hbmame\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2020-09-01 13:25i\n"
+"PO-Revision-Date: 2020-09-01 13:25i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sv_se\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Alternate render method"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Auto save/load states"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Boot from CLI"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Boot to BIOS"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Boot to OSD"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Profile Buttons according to games (Restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Enable cheats"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Lightgun mode"
+msgstr ""
+
+msgctxt "#30010"
+msgid "MAME INI Paths"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Media type"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Enable in-game mouse"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Read configuration"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Save state naming"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Softlist automatic media type"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Enable softlists"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Enable throttle"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Write configuration"
+msgstr ""
