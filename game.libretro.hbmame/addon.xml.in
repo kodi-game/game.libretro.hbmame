@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.hbmame"
 		name="Arcade (HBMAME)"
-		version="0.220.0.4"
+		version="0.220.0.5"
 		provider-name="Robbbert,MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,11 +12,15 @@
 		<extensions>chd|cmd|zip|7z</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.hbmame</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Arcade (HBMAME) 0.220</summary>
 		<description lang="en_GB">HBMAME stands for Home Brew MAME. It is an emulator of homebrew and hacked games for arcade hardware.</description>
 	</extension>
