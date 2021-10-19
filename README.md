@@ -4,13 +4,21 @@
 # Arcade (HBMAME)
 
 ### Description
+
 HBMAME stands for Home Brew MAME. It is an emulator of homebrew and hacked games for arcade hardware.
 
 ### License
+
 GPLv2+
 
 ### Icon
 
 ![Icon](game.libretro.hbmame/resources/icon.png)
 
+### Fanart
 
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
