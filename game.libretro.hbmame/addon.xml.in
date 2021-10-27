@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (HBMAME) 0.220</summary>
+		<description lang="da_DK">HBMAME står for Home Brew MAME. Det er en emulator af hjemmebryggede og hackede spil til arkadehardware.</description>
 		<description lang="en_GB">HBMAME stands for Home Brew MAME. It is an emulator of homebrew and hacked games for arcade hardware.</description>
 	</extension>
 </addon>
