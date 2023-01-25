@@ -13,7 +13,7 @@ GPLv2+
 
 ### Icon
 
-![Icon](game.libretro.hbmame/resources/icon.png)
+![Arcade (HBMAME) icon](game.libretro.hbmame/resources/icon.png)
 
 ### Fanart
 
