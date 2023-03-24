@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (HBMAME) 0.220"
+msgid "Arcade (HBMAME)"
 msgstr ""
 
 msgctxt "Addon Description"
