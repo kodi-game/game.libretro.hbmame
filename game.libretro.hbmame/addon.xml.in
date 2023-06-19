@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.hbmame"
 		name="Arcade (HBMAME)"
-		version="0.220.0.14"
+		version="0.220.0.15"
 		provider-name="Robbbert,MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
