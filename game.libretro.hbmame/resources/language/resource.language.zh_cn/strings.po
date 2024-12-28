@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "HBMAME stands for Home Brew MAME. It is an emulator of homebrew and hacked games for arcade hardware."
 msgstr "HBMAME 即 Home Brew MAME。它是一个用于街机硬件的自制和魔改游戏的模拟器。"
 
+msgctxt "Addon Lifecyclestate"
+msgid "Home Brew MAME hasn't been updated since 2020 and is no longer available for use in Kodi."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "设置"

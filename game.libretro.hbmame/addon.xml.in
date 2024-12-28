@@ -30,5 +30,6 @@
 		<description lang="es_ES">HBMAME son las siglas de Home Brew MAME. Es un emulador de juegos caseros y pirateados para hardware arcade.</description>
 		<description lang="it_IT">HBMAME sta per Home Brew MAME. È un emulatore di giochi homebrew e hackerati per hardware arcade.</description>
 		<description lang="zh_CN">HBMAME 即 Home Brew MAME。它是一个用于街机硬件的自制和魔改游戏的模拟器。</description>
+		<lifecyclestate type="None" lang="en_GB">Home Brew MAME hasn&apos;t been updated since 2020 and is no longer available for use in Kodi.</lifecyclestate>
 	</extension>
 </addon>
